@@ -31,5 +31,7 @@ def main():
     print("\n=== 开始5个0开头的POW挑战 ===")
     mine_pow(nickname, 5)
 
+    
+
 if __name__ == "__main__":
     main()
